@@ -20,8 +20,10 @@ $ npm run dev
 ### What's Included
 
 - `npm run dev`: fis3 with proper config for source maps & hot-reload.
+![dev](https://image.ibb.co/h1YGEa/dev.png)
 
 - `npm run build`: build with HTML/CSS/JS minification.
+![build](https://image.ibb.co/eM8GEa/build.png)
 
 For detailed explanation on how things work, consult the plugin [fis3-parser-vue-component](https://github.com/ccqgithub/fis3-parser-vue-component) and [fis3 docs](http://fis.baidu.com/fis3/docs/beginning/debug.html#%E5%90%AF%E5%8A%A8).
 
