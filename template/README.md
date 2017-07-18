@@ -1,5 +1,5 @@
 ## A vue demo compiled with fis3
-> 项目基于fis3,vue,vue-router,iview组件库搭建，示例fis3如何结合vue编译使用，配置了本地local dev模式，远程dev模式和publish模式，便于在不同的开发、联调、测试、上线的各个阶段使用。
+> 项目基于fis3,vue,vue-router搭建，示例fis3如何结合vue编译使用，配置了本地local dev模式，远程dev模式和publish模式，便于在不同的开发、联调、测试、上线的各个阶段使用。
 
 ## build step
 
