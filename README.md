@@ -13,6 +13,7 @@ $ npm install -g vue-cli
 $ vue init regrex/fis3-vue my-project
 $ cd my-project
 $ npm install
+$ fis3 server start
 $ npm run dev
 ```
 
@@ -22,7 +23,7 @@ $ npm run dev
 
 - `npm run build`: build with HTML/CSS/JS minification.
 
-For detailed explanation on how things work, consult the plugin [fis3-parser-vue-component](https://github.com/ccqgithub/fis3-parser-vue-component).
+For detailed explanation on how things work, consult the plugin [fis3-parser-vue-component](https://github.com/ccqgithub/fis3-parser-vue-component) and [fis3 docs](http://fis.baidu.com/fis3/docs/beginning/debug.html#%E5%90%AF%E5%8A%A8).
 
 ### Fork It And Make Your Own
 
