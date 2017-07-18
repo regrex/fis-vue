@@ -23,6 +23,7 @@ fis3 server open
 ```sh
 npm run dev
 ```
+![dev](https://image.ibb.co/h1YGEa/dev.png)
 
 4. 远程部署
 将产出通过http-push传输到指定服务器，需在服务器端配置receiver，具体参考[fis3官方文档](http://fis.baidu.com/fis3/docs/beginning/debug.html#%E5%8F%91%E5%B8%83%E5%88%B0%E8%BF%9C%E7%AB%AF%E6%9C%BA%E5%99%A8)。可修改fis-conf.js中的host配置，指定部署到远程服务器host名称。
@@ -35,3 +36,4 @@ npm run dev
 ```
 npm run build
 ```
+![build](https://image.ibb.co/eM8GEa/build.png)
